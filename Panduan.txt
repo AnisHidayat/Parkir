@@ -1,0 +1,23 @@
+Installasi:
+
+[XAMPP]
+- Ekstrak file yang telah di download
+- Install XAMPP sampai selesai
+- Buka XAMPP Control Panel kemudian start Apache dan MySQL.
+
+[PROGRAM]
+- Copy folder parker ke C:/xampp/htdocs/
+- Buka browser kemudian buka http://localhost/phpmyadmin atau http://127.0.0.1/phpmyadmin
+- Buat database baru dengan nama ‘parkir’ (tanpa tanda petik)
+- Klik db tersebut kemudian pilih menu Import
+- Upload file parker.sql yang ada pada folder parkir/database
+
+
+[JALANKAN APLIKASI]
+- Buka broser kemudian buka http://localhost/parkir/
+- Jika langkah diatas berhasil, program akan berjalan dengan normal.
+
+Jika terdapat masalah saat installasi silahkan hubungi saya:
+08973149388
+
+APLIKASIKUID.SITE
